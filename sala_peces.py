@@ -11,7 +11,6 @@ import random
 import time
 
 
-
 TMAX = 35
 
 SIZE = (725, 600)
